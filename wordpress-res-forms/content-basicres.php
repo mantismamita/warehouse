@@ -13,7 +13,7 @@
 <div class="horiz-form large-12 small-8 small-centered columns">
 
 <h3><?php _e('Quick Reservation', 'hostel_mama' )?></h3>
-<form  action="http://www.net-booking.net/search/search.php" method="get" name="disponibilita" target="_blank" class="custom">
+<form  action="#" method="get" name="disponibilita" target="_blank" class="custom">
 <select name="date_day" id="date_day">
 <option value="01">1</option>
 <option value="02">2</option>

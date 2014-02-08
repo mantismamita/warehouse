@@ -13,7 +13,7 @@
             
 
             
-            	<form id="quick_res" action="http://www.net-booking.net/search/search.php" method="post" name="disponibilita" target="_blank" class="custom res-form">
+            	<form id="quick_res" action="#" method="post" name="disponibilita" target="_blank" class="custom res-form">
             
                 <ul class="large-block-grid-5 small-block-grid-1">    
                     <li>

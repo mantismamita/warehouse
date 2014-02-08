@@ -1,6 +1,6 @@
 <?php
 /**
- * The template used for the modular reservation popup box 
+ * The template used for the modular reservation pop-up box 
  * @package hostel_mama
  */
 ?>
@@ -8,7 +8,7 @@
 <header class="highlight-panel form-header">
 			<h4 class="subheader">Reservation</h4>
 			</header>
-		<form id="modal-booking" action="http://www.net-booking.net/search/search.php" method="post" name="disponibilita" target="_blank" class="panel custom res-form">
+		<form id="modal-booking" action="#" method="post" name="disponibilita" target="_blank" class="panel custom res-form">
                     <div>
                         <label for="modal_date" class="anchor">Date :</label> <input type="date" name="date" id="modal_date" class="form-date datepicker">
                     </div>
